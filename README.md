@@ -85,5 +85,4 @@ claude-changelog-agent/
 ├── anthropic_changelog_kb.md
 ├── README.md
 ├── requirements.txt
-└── .gitignore
 ```
